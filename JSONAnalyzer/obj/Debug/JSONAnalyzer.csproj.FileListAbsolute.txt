@@ -1,0 +1,14 @@
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\bin\Debug\JSONAnalyzer.exe.config
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\bin\Debug\JSONAnalyzer.exe
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\bin\Debug\JSONAnalyzer.pdb
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\JSONAnalyzer.csprojResolveAssemblyReference.cache
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\MainWindow.g.cs
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\App.g.cs
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\JSONAnalyzer_MarkupCompile.cache
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\JSONAnalyzer_MarkupCompile.lref
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\MainWindow.baml
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\JSONAnalyzer.g.resources
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\JSONAnalyzer.Properties.Resources.resources
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\JSONAnalyzer.csproj.GenerateResource.Cache
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\JSONAnalyzer.exe
+C:\Projects\JSONAnalyzer\JSONAnalyzer\JSONAnalyzer\obj\Debug\JSONAnalyzer.pdb
