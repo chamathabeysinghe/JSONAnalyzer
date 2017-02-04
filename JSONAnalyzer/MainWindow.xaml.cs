@@ -27,7 +27,11 @@ namespace JSONAnalyzer
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            Console.WriteLine("HELLO WORLD*************************");
+
+            String url = "https://" + textBox.Text;
+            ApiConnector a = new ApiConnector();
+            string result=a.getApiResponse(url);
+            richTextBox.AppendText(result);
         }
     }
 }

@@ -7,20 +7,20 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525" Background="#FF292929" Foreground="White">
     <Grid>
-        <Rectangle Fill="#FF2F3337" HorizontalAlignment="Left" Stroke="#FF1F63B9" Width="115.2"/>
-        <Rectangle Fill="#FF0762AD" HorizontalAlignment="Left" Height="35.4" Stroke="#FF1F63B9" VerticalAlignment="Top" Width="115.2"/>
-        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="25.4" Margin="0,10,0,0" TextWrapping="Wrap" Text="JSONanalyze" VerticalAlignment="Top" Width="115.2" FontSize="20"/>
-        <Rectangle Fill="White" Height="35.4" Margin="115.2,0,0,0" Stroke="#FF1F63B9" VerticalAlignment="Top"/>
-        <TextBlock x:Name="textBlock1" Height="25.4" Margin="131.7,6,114.1,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FF595454" Text="Link to API here"/>
-        <Button x:Name="button" Content="Button" HorizontalAlignment="Right" Height="28.8" VerticalAlignment="Top" Width="106.8" BorderBrush="#FF686363" Background="White" Margin="0,3.335,3.335,0" Click="button_Click"/>
+        <Rectangle Fill="#FF2F3337" HorizontalAlignment="Left" Stroke="#FF1F63B9" Width="161.6"/>
+        <Rectangle Fill="#FF0762AD" HorizontalAlignment="Left" Height="35.4" Stroke="#FF1F63B9" VerticalAlignment="Top" Width="161.6"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Height="25.4" Margin="0,10,0,0" TextWrapping="Wrap" Text="JSONanalyze" VerticalAlignment="Top" Width="161.6" FontSize="20"/>
+        <Rectangle Fill="White" Height="35.4" Margin="166.6,0,10,0" Stroke="#FF1F63B9" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Right" Height="28.8" VerticalAlignment="Top" Width="93.735" BorderBrush="#FF686363" Background="White" Margin="0,3.335,16.4,0" Click="button_Click"/>
         <StackPanel HorizontalAlignment="Left" Margin="0,40.4,0,10" Width="115.2"/>
-        <RichTextBox x:Name="richTextBox" Margin="120.2,40.4,10,10" Background="#FF343131" BorderBrush="#FF373737">
+        <RichTextBox x:Name="richTextBox" Margin="166.6,40.4,10,10" BorderBrush="#FF373737" Foreground="#FFFDA00D" SelectionBrush="#FF2A2B2C" Background="#FF343131">
             <FlowDocument>
                 <Paragraph>
                     <Run Text=""/>
                 </Paragraph>
             </FlowDocument>
         </RichTextBox>
+        <TextBox x:Name="textBox" Height="27.2" Margin="173.4,4.935,115.135,0" TextWrapping="Wrap" VerticalAlignment="Top" ToolTip="Your Link Here" AutomationProperties.HelpText="Your Link Here"/>
 
     </Grid>
 </Window>
